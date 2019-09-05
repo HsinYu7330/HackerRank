@@ -1,3 +1,4 @@
-# My HackerRank solutions
+# My HackerRank Solutions
+- 01 collection.Counter() **[easy]** 2019/09/05
 
-- 01. collection.Counter() [easy]
+
