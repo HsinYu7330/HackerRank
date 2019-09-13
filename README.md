@@ -5,6 +5,10 @@
 - 04 Collections.OrderedDict() **[Easy]** 2019/09/10
 - 05 Word Order **[Medium]** 2019/09/11
 - 06 itertools.product() **[Easy]** 2019/09/12
+- 07 itertools.permutations() **[Easy]** 2019/09/13
+
+
+
 
 
 
