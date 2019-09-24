@@ -14,6 +14,9 @@
 - 13 Symmetric Difference **[Easy]** 2019/09/19
 - 14 No Idea! **[Medium]** 2019/9/20
 - 15 Set.add() **[Easy]** 2019/9/23
+- 16 Set.discard(), .remove() & .pop() **[Easy]** 2019/9/24
+
+
 
 
 
