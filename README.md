@@ -21,6 +21,12 @@
 - 20 Set.symmetric\_difference() Operation **[Easy]** 2019/09/26
 - 21 Set Mutations **[Easy]** 2019/09/26
 - 22 The Captain's Room **[Easy]** 2019/09/27
+- 23 Check Subset **[Easy]** 2019/09/30
+- 24 Check Strict Superset **[Easy]** 2019/09/30
+- 25 Zipped! **[Easy]** 2019/09/30
+
+
+
 
 
 
