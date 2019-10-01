@@ -24,6 +24,8 @@
 - 23 Check Subset **[Easy]** 2019/09/30
 - 24 Check Strict Superset **[Easy]** 2019/09/30
 - 25 Zipped! **[Easy]** 2019/09/30
+- 26 ginortS **[Medium]** 2019/10/01
+
 
 
 
