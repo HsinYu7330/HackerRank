@@ -27,6 +27,10 @@
 - 26 ginortS **[Medium]** 2019/10/01
 - 27 Validating Roman Numerals **[Easy]** 2019/10/04
 - 28 Calendar Module **[Easy]** 2019/10/07
+- 29 Exceptions **[Easy]** 2019/10/16
+- 30 Incorrect Regex **[Easy]** 2019/10/16
+
+
 
 
 
