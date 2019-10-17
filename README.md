@@ -29,6 +29,8 @@
 - 28 Calendar Module **[Easy]** 2019/10/07
 - 29 Exceptions **[Easy]** 2019/10/16
 - 30 Incorrect Regex **[Easy]** 2019/10/16
+- 31 Standardize Mobile Number Using Decorators **[Easy]** 2019/10/17
+
 
 
 
