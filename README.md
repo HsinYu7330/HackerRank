@@ -30,6 +30,10 @@
 - 29 Exceptions **[Easy]** 2019/10/16
 - 30 Incorrect Regex **[Easy]** 2019/10/16
 - 31 Standardize Mobile Number Using Decorators **[Easy]** 2019/10/17
+- 32 Decorators 2 - Name Directory **[Easy]** 2019/10/21
+- 33 Min and Max **[Easy]** 2019/10/21
+
+
 
 
 
