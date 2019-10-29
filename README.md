@@ -32,6 +32,20 @@
 - 31 Standardize Mobile Number Using Decorators **[Easy]** 2019/10/17
 - 32 Decorators 2 - Name Directory **[Easy]** 2019/10/21
 - 33 Min and Max **[Easy]** 2019/10/21
+- 34 Mean, Var, and Std **[Easy]** 2019/10/22
+- 35 Dot and Cross **[Easy]** 2019/10/22
+- 36 Inner and Outer **[Easy]** 2019/10/22
+- 37 Collections.deque() **[Easy]** 2019/10/23
+- 38 Mod Divmod **[Easy]** 2019/10/29
+- 39 Power - Mod Power **[Easy]** 2019/10/29
+- 40 Integers Come In All Sizes **[Easy]** 2019/10/29
+
+
+
+
+
+
+
 
 
 
