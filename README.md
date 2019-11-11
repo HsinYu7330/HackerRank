@@ -39,6 +39,10 @@
 - 38 Mod Divmod **[Easy]** 2019/10/29
 - 39 Power - Mod Power **[Easy]** 2019/10/29
 - 40 Integers Come In All Sizes **[Easy]** 2019/10/29
+- 41 Class2 - Find the Torsional Angle **[Easy]** 2019/10/30
+- 42 Detect Floating Point Number **[Easy]** 2019/11/11
+
+
 
 
 
