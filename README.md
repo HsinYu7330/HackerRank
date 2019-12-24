@@ -41,6 +41,9 @@
 - 40 Integers Come In All Sizes **[Easy]** 2019/10/29
 - 41 Class2 - Find the Torsional Angle **[Easy]** 2019/10/30
 - 42 Detect Floating Point Number **[Easy]** 2019/11/11
+- 43 Map and Lambda Function **[Easy]** 2019/12/24
+- 44 Validating Email Addresses With a Filter **[Medium]** 2019/12/24
+
 
 
 
