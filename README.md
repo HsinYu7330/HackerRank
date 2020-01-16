@@ -46,6 +46,10 @@
 - 45 Re.split() **[Easy]** 2020/01/06
 - 46 Group(), Groups() & Groupdict() **[Easy]** 2020/01/06
 - 47 Re.findall() & Re.finditer() **[Easy]** 2020/01/06
+- 48 Time Delta **[Medium]** 2020/01/15
+- 49 Validating and Parsing Email Addresses **[Easy]** 2020/01/16
+- 50 Sum and Prod **[Easy]** 2020/01/16
+
 
 
 
