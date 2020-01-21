@@ -50,6 +50,13 @@
 - 49 Validating and Parsing Email Addresses **[Easy]** 2020/01/16
 - 50 Sum and Prod **[Easy]** 2020/01/16
 - 51 Re.start() & Re.end() **[Easy]** 2020/01/20
+- 52 Arrays **[Easy]** 2020/01/21
+- 53 Shape and Reshape **[Easy]** 2020/01/21
+- 54 Transpose and Flatten **[Easy]** 2020/01/21
+- 55 Concatenate **[Easy]** 2020/01/21
+- 56 Zeros and Ones **[Easy]** 2020/01/21
+
+
 
 
 
