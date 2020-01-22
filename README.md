@@ -55,6 +55,9 @@
 - 54 Transpose and Flatten **[Easy]** 2020/01/21
 - 55 Concatenate **[Easy]** 2020/01/21
 - 56 Zeros and Ones **[Easy]** 2020/01/21
+- 57 XML 1 - Find the Score **[Easy]** 2020/01/22
+- 58 XML 2 - Find the Maximum Depth **[Easy]** 2020/01/22
+
 
 
 
