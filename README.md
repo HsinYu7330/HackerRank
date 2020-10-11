@@ -59,7 +59,7 @@
 - 58 XML 2 - Find the Maximum Depth **[Easy]** 2020/01/22
 - 59 Compress the String! **[Medium]** 2020/10/02
 - 60 Iterables and Iterators **[Medium]** 2020/10/03
-
+- 61 Maximize It! **[Hard]** 2020/10/11
 
 
 
